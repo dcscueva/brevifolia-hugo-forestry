@@ -1,4 +1,11 @@
 ---
 label: prueba
 hide_body: false
-fields: []
+fields:
+- name: text1
+  type: text
+  config:
+    required: false
+  label: text1
+  description: prueba
+  hidden: true
